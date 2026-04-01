@@ -12,14 +12,6 @@ hey, I'm Keyy 👋<br>Building things quietly. Shipping when ready.<br>🔭 Curr
 ![](https://nirzak-streak-stats.vercel.app/?user=keydelrey&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keydelrey&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keydelrey&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keydelrey&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keydelrey&icon=2&color=13)](https://visitcount.itsvg.in)
